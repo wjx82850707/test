@@ -9,7 +9,7 @@ def test2():
      a = "1|2".split("|")
      b = "1|3".split("|")
      c = "4|5".split("|")
-	 d = "dsdfd|ddd".split("1")
+     d = "dsdfd|ddd".split("1")
      al=[]
      al.extend(b)
      al.extend(c)
