@@ -2,7 +2,7 @@
 # encoding: utf-8
 def test(a):
     if(a!="a"):
-      raise Exception("dddddddddd")
+      raise Exception("ddddddddddxx")
     return
 
 def test2():
